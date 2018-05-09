@@ -1,0 +1,15 @@
+---
+title: Cars
+author: 夏昆
+date: '2018-05-09'
+slug: car
+categories:
+  - R
+tags:
+  - plot
+---
+
+```{r}
+plot(cars)
+```
+
