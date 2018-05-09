@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "我的第一个网站"
+title = "夏"
 theme = "hugo-lithium"
 googleAnalytics = ""
 disqusShortname = ""
